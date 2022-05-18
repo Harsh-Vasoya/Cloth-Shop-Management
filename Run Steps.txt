@@ -1,0 +1,5 @@
+Run cmd
+Cd path
+dir
+python cloth_store.py
+and phone no is int
